@@ -3,7 +3,7 @@
   align="center"
   width="100%"
   height="10%"
-  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRxcXc5OHAzY3IwcnNvYndmODk5a3V6MHJta3lncmc1cHB2bGQyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqBcW3x1jx6Rlah3AQ/giphy.gif"
+  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA4bWw2b2Y3cXgxZ2NhMWx0Njk2bXNkNTU2YjM0emlmZ3Y4N3hjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xR0GoNL56iP7AFyR92/giphy.gif"
 />
 <h1 align="center">Hi 👋, I'm Gaurav </h1>
 
