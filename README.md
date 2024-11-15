@@ -3,11 +3,11 @@
   align="center"
   width="100%"
   height="20%"
-  src="https://media.giphy.com/media/ggVzRUi0Wbfr4fEO8v/giphy.gif"
+  src="https://giphy.com/gifs/JRDAIny2oqNhqwBxJk"
 />
 <h1 align="center">Hi 👋, I'm Gaurav </h1>
 
-<h2 align="center">I do Code and Fun ❤️😁</h2>
+
 <!-- <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4> -->
 <div align="center">
 <!--   <a align="center" href="https://drive.google.com/file/d/1gHOzYl3ycGLM22IROSQSUX3CcdakW2ZY/view">
@@ -33,7 +33,7 @@
   
 - 👨‍💻 All of my projects are available at **[My Github]()**
 
-- 📫 How to reach me **gauravchaudhari7717@@gmail.com**
+- 📫 How to reach me **gauravchaudhari7717@gmail.com**
 
 - ⚡ Fun fact: **There are around 700 separate programming languages**
 
@@ -62,9 +62,6 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/android-os.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/flutter.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/dart.png"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/android-studio--v2.png"/> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/> </a>
