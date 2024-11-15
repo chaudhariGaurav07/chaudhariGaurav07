@@ -1,5 +1,4 @@
 
-<iframe src="https://giphy.com/embed/JRDAIny2oqNhqwBxJk" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JRDAIny2oqNhqwBxJk">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Gaurav </h1>
 
 
