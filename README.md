@@ -8,10 +8,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav </h1>
 
 
- <h4 align="center">My Portfolio: https://pruthviraj-portfolio-site.netlify.app/ </h4> 
-<div align="center">
-  <a align="center" href="https://drive.google.com/file/d/1gHOzYl3ycGLM22IROSQSUX3CcdakW2ZY/view">
-    <strong>My Resume</strong> </a>
+ 
 </div>
 <img
   align="right"
