@@ -70,7 +70,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=chaudhariGaurav07&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" alt="GitHub Streak" />
   </a>
-  ![](https://leetcard.jacoblin.cool/leetcode?https://leetcode.com/u/_chaudharigaurav/=cn)
+  
 </div>
 
 
@@ -116,3 +116,6 @@
 </a>
 <a href="https://github.com/chaudhariGaurav07?tab=followers"><img src="https://img.shields.io/github/followers/chaudhariGaurav07?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+![](https://leetcard.jacoblin.cool/_chaudharigaurav?theme=unicorn)
+
