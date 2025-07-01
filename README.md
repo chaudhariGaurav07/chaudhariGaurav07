@@ -147,3 +147,11 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/_chaudharigaurav?theme=unicorn" alt="LeetCode Stats" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/chaudhariGaurav07/chaudhariGaurav07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
