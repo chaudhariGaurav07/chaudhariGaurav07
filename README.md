@@ -5,7 +5,9 @@
   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA4bWw2b2Y3cXgxZ2NhMWx0Njk2bXNkNTU2YjM0emlmZ3Y4N3hjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xR0GoNL56iP7AFyR92/giphy.gif"
 />
 
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Chaudhari;full-stack+developer+from+India;Love+React+%26+Backend;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 <img
   align="right"
@@ -46,43 +48,46 @@
 
 ---
 
-## 🛠 Languages and Tools
+## ⚙️ Tech Stack
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  </a>
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  </a> 
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-  </a>   
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  </a>  
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-  </a>
-</p>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
+### 🧰 Libraries & Frameworks
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=android-studio)
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
+
+### ☁️ Backend & Hosting
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
+
+### 🧠 AI & Utilities
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
+![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-black?style=flat-square&logo=tensorflow)
+
+### 🐧 OS & Dev Environment
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
 
 ---
 
@@ -150,8 +155,18 @@
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.com/chaudhariGaurav07/chaudhariGaurav07/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chaudhariGaurav07&theme=radical&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
