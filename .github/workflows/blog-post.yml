@@ -2,17 +2,19 @@ name: Latest Medium blog posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with latest Medium blogs
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: 5
           feed_list: "https://medium.com/feed/@gauravchaudhari_"
+          disable_webhook: true
