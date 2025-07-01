@@ -6,8 +6,11 @@
 />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Chaudhari;full-stack+developer+from+India;Love+React+%26+Backend;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gaurav+Chaudhari;Full-stack+developer+from+India;Fuelled+by+curiosity%2C+powered+by+code;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
+
+
+
 
 <img
   align="right"
@@ -17,33 +20,33 @@
   src="https://i.ibb.co/b1qSyGd/output-onlinegiftools-1.gif"
 />
 
-## About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m a B.Tech Computer Science student, graduating in **2027**.  
-- 🌱 I’m currently learning **React** and **Data Structures**.  
-- 👯 I’ve solved **50+ DSA problems** on various platforms.  
-- 💬 Ask me about **JavaScript**, **Node.js**, or **React**.  
-- 👨‍💻 All of my projects are available on **[My GitHub](https://github.com/chaudhariGaurav07)**  
-- 📫 Reach me at: **gauravchaudhari7717@gmail.com**  
-- ⚡ Fun fact: **There are around 700 separate programming languages!**
+- 🎓 I'm a B.Tech Computer Science student (2023-2027)
+- 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**
+- 🧠 Solved **100+ DSA problems** across LeetCode, GFG, and others
+- 🗨️ Ask me about **JavaScript**, **React**, **Node.js** — happy to help!
+- 💻 Check out all my projects on **[My GitHub](https://github.com/chaudhariGaurav07)**
+- 📬 Reach me at: **gauravchaudhari7717@gmail.com**
+- 🤯 Fun fact: **There are over 700 programming languages!**
 
 ---
 
 ## 🧠 Coding Profiles
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.geeksforgeeks.org/user/gauravchausnhd/" target="_blank">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/>
   </a>
   <a href="https://leetcode.com/u/_chaudharigaurav" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
-  </a>   
+  </a>
   <a href="https://www.codechef.com/users/gaurav_7717" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" width="48" alt="CodeChef"/>
-  </a>    
+  <img src="https://img.icons8.com/ios-filled/50/80461b/codechef.png" width="48" alt="CodeChef"/>
+</a>
   <a href="https://www.hackerrank.com/profile/gauravchaudhar52" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank"/>
-  </a>   
+  </a>
 </p>
 
 ---
@@ -87,7 +90,6 @@
 
 ### 🐧 OS & Dev Environment
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
 
 ---
 
@@ -156,17 +158,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chaudhariGaurav07&theme=radical&no-bg=true&margin-w=10" />
 </p>
-
----
-
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-
