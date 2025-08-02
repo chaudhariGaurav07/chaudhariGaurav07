@@ -96,7 +96,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chaudhariGaurav07&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=chaudhariGaurav07&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" />
 </div>
 
 ---
