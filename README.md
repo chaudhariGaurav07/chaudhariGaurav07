@@ -95,18 +95,21 @@
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=chaudhariGaurav07&theme=radical&hide_border=true&background=50%2CF7ACAC%2B92C8D1" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chaudhariGaurav07&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhariGaurav07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhariGaurav07&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaudhariGaurav07&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhariGaurav07&layout=compact&theme=react&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
