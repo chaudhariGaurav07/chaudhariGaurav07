@@ -104,12 +104,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhariGaurav07&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaudhariGaurav07&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhariGaurav07&layout=compact&theme=react&hide_border=true&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chaudhariGaurav07&layout=compact&theme=react&hide_border=true"
+  />
 </p>
+
 
 ---
 
