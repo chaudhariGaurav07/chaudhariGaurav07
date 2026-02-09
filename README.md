@@ -121,13 +121,21 @@
 ## 🚀 See My Contributions
 
 <div align="center">
-  <a href="https://github.com/chaudhariGaurav07/TimeLineup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaudhariGaurav07&repo=TimeLineup" alt="TimeLineup Repo" />
-  </a>
-  <a href="https://github.com/chaudhariGaurav07/Foundit_main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chaudhariGaurav07&repo=Foundit_main" alt="Foundit_main Repo" />
-  </a>
+
+<a href="https://github.com/chaudhariGaurav07/TimeLineup">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaudhariGaurav07&repo=TimeLineup&theme=react&hide_border=true" 
+  />
+</a>
+
+<a href="https://github.com/chaudhariGaurav07/Foundit_main">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=chaudhariGaurav07&repo=Foundit_main&theme=react&hide_border=true" 
+  />
+</a>
+
 </div>
+
 
 ---
 
