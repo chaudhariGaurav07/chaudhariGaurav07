@@ -22,13 +22,20 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a B.Tech Computer Science student (2023-2027)
-- 🌱 Currently diving deep into **React**, **Node.js**, and **Data Structures**
-- 🧠 Solved **100+ DSA problems** across LeetCode, GFG, and others
-- 🗨️ Ask me about **JavaScript**, **React**, **Node.js** — happy to help!
-- 💻 Check out all my projects on **[My GitHub](https://github.com/chaudhariGaurav07)**
-- 📬 Reach me at: **gauravchaudhari7717@gmail.com**
-- 🤯 Fun fact: **There are over 700 programming languages!**
+✨ Turning ideas into real-world projects with code  
+
+- 🎓 **B.Tech CSE (2023–2027)** — building strong fundamentals  
+- 🚀 Exploring **Full-Stack Development** with **React & Node.js**  
+- 🧠 Solved **150+ DSA problems** — sharpening problem-solving skills  
+- 💡 Passionate about creating **useful + scalable applications**  
+- 🛠️ Love working on **real-world projects & hackathons**  
+- 💬 Ask me about **JavaScript, React, Node.js, DSA**  
+- 🌐 Portfolio of my work 👉 [Portfolio](https://gauravchadhari.vercel.app)  
+- 📧 Reach me at: **gauravchaudhari7717@gmail.com**  
+
+---
+
+🔥 *"Code. Learn. Build. Repeat."*  
 
 ---
 
@@ -83,6 +90,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ### 🧠 AI & Utilities
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
@@ -90,6 +98,8 @@
 
 ### 🐧 OS & Dev Environment
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+
 
 ---
 
